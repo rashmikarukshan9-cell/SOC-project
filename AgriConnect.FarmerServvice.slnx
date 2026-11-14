@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AgriConnect.AdminService1/AgriConnect.AdminService1.csproj" Id="3825953a-76de-4755-9435-67ec61fff74f" />
+  <Project Path="AgriConnect.FarmerServvice/AgriConnect.FarmerServvice.csproj" Id="db44d18d-ec84-466b-ab34-21320eb86f81" />
+  <Project Path="AgriConnect.FeedbackService/AgriConnect.FeedbackService.csproj" Id="389701f6-31a9-4172-82c1-fd367b41f097" />
+  <Project Path="AgriConnect.OfficerService/AgriConnect.OfficerService.csproj" Id="88c65b58-e5ac-4343-9cac-05afd0474bde" />
+  <Project Path="AgriConnect.SupplierrService/AgriConnect.SupplierrService.csproj" Id="a7f9413f-3d4b-413c-afdb-99f65fbf54c2" />
+</Solution>
